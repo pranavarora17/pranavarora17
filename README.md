@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development and passionate about coding.
 - 🌱 I’m currently learning C++ and Java. 
 - 💞️ I’m looking to collaborate on projects to improve my coding skills.
-- 📫 How to reach me pranavarora017@gmail.com
+- 📫 How to reach me pranavarora.in@gmail.com
 - ⚡ Fun fact: JAVA was born out of a coffee session.
 
 <!---
