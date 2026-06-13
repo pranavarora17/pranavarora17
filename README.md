@@ -9,7 +9,7 @@
 **Ex-Intern @ Indian Cyber Coordination Centre (I4C)**  
 Ministry of Home Affairs, Government of India
 
-** Ex-Intern @ Altruisty Innovation 
+**Ex-Intern @ Altruisty Innovation 
 ---
 
 ## 🚀 Projects
