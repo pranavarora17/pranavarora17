@@ -1,31 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Pranav%20Arora&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=16&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a2e,100:0f3460&height=200&section=header&text=Pranav%20Arora&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=40&stroke=e94560&strokeWidth=1&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=62&descSize=17&descColor=a8b2d8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Cloud+%E2%98%81%EF%B8%8F;Open+to+SDE+%2F+Backend+roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranavarora17&style=for-the-badge&color=e94560&label=PROFILE+VIEWS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E94560&center=true&vCenter=true&multiline=false&width=650&lines=🚀+Building+scalable+backend+systems;☁️+Spring+Boot+%7C+Microservices+%7C+Cloud;🔐+Security-first+%7C+JWT+%7C+OAuth2;🟢+Open+to+SDE+%2F+Backend+roles)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavarora17)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=e94560)](https://pranavarora17.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavarora17)
+<br/>
+
+<a href="https://linkedin.com/in/pranavarora17">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+<a href="https://pranavarora17.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-e94560?style=for-the-badge&logo=vercel&logoColor=white&labelColor=e94560" />
+</a>
+<a href="https://github.com/pranavarora17">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" />
 
 </div>
 
----
+<br/>
 
-## 🏢 Experience
+## 🏢 &nbsp;Experience
 
-| | Role | Organization |
-|---|---|---|
-| 🇮🇳 | **Backend Intern** | Indian Cyber Coordination Centre (I4C) · Ministry of Home Affairs, Govt. of India |
-| 💡 | **Intern** | Altruisty Innovation |
+<table>
+<tr>
+<td width="50px" align="center">🇮🇳</td>
+<td><strong>Backend Intern</strong> &nbsp;·&nbsp; Indian Cyber Coordination Centre (I4C)<br/><sub>Ministry of Home Affairs, Government of India</sub></td>
+</tr>
+<tr>
+<td width="50px" align="center">💡</td>
+<td><strong>Intern</strong> &nbsp;·&nbsp; Altruisty Innovation</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🚀 Projects
+## 🚀 &nbsp;Projects
 
-> 🔧 **Coming soon** — currently in development. Stay tuned!
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=a8b2d8&center=true&vCenter=true&width=500&lines=🔧+Projects+in+active+development...;⚙️+Coming+soon+—+stay+tuned!)](https://git.io/typing-svg)
+
+</div>
 
 <!--
 ### [Project Name](repo-link)
@@ -40,97 +62,84 @@
 
 [🔗 Live Demo](#) · [📁 Repo](#)
 
-Or use a live repo card (replace USER and REPO):
+Or drop in a live repo card:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pranavarora17&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560)](https://github.com/pranavarora17/REPO_NAME)
 -->
 
----
+<br/>
 
-## 🛠 Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 <div align="center">
 
-**☕ Core Java & Frameworks**
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,kafka&theme=dark&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,ansible,terraform,linux,git&theme=dark&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,c,cpp&theme=dark&perline=6" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+<br/><br/>
 
-**🔐 Security & Auth**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-
-**🗄️ Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**⚙️ DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**💻 Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Also proficient in:** &nbsp;
+`JWT` &nbsp; `OAuth2` &nbsp; `Spring Security` &nbsp; `Spring AI` &nbsp; `REST APIs` &nbsp; `Microservices` &nbsp; `Servlets & JSP` &nbsp; `JDBC` &nbsp; `JUnit` &nbsp; `Logging`
 
 </div>
 
----
+<br/>
 
-## 🏆 Hackathons & Achievements
+## 🏆 &nbsp;Hackathons & Achievements
 
 <div align="center">
 
-| 🏅 Event | Position | Certificate |
-|:---:|:---:|:---:|
-| 🥇 **HackPick** | Winner | [View Certificate](#) |
-| 🥇 **HackSummit** | Winner | [View Certificate](#) |
-| 🥈 **DevPlay Hackathon** | 2nd Position | [View Certificate](#) |
+<table>
+<tr>
+<th>🏅 Event</th>
+<th>Position</th>
+<th>Certificate</th>
+</tr>
+<tr>
+<td>🥇 &nbsp;<strong>HackPick</strong></td>
+<td align="center">Winner</td>
+<td align="center"><a href="#">📄 View</a></td>
+</tr>
+<tr>
+<td>🥇 &nbsp;<strong>HackSummit</strong></td>
+<td align="center">Winner</td>
+<td align="center"><a href="#">📄 View</a></td>
+</tr>
+<tr>
+<td>🥈 &nbsp;<strong>DevPlay Hackathon</strong></td>
+<td align="center">2nd Position</td>
+<td align="center"><a href="#">📄 View</a></td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 🏅 GitHub Trophies
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=pranavarora17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/pranavarora17)
+<img src="https://github-readme-stats.vercel.app/api?username=pranavarora17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_radius=12" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavarora17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&border_radius=12" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavarora17&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=a8b2d8&stroke=e94560" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavarora17&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560" />
 
 </div>
 
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranavarora17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavarora17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavarora17&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" />
-
-</div>
-
----
-
-
-<div align="center">
-
-💼 **Open to Backend · SDE · Full-Stack opportunities**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=💼+Open+to+Backend+·+SDE+·+Full-Stack+opportunities&fontSize=16&fontColor=a8b2d8&animation=twinkling&fontAlignY=65" />
 
 </div>
