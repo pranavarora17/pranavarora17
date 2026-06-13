@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Cloud+%E2%98%81%EF%B8%8F;Open+to+SDE+%2F+Backend+roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=pranavarora17&style=for-the-badge&color=e94560&label=PROFILE+VIEWS)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavarora17)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=e94560)](https://pranavarora17.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavarora17)
@@ -37,6 +39,9 @@
 - 🔐 Highlight 2 (e.g. "JWT-secured REST API with OAuth2")
 
 [🔗 Live Demo](#) · [📁 Repo](#)
+
+Or use a live repo card (replace USER and REPO):
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pranavarora17&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560)](https://github.com/pranavarora17/REPO_NAME)
 -->
 
 ---
@@ -98,6 +103,16 @@
 
 ---
 
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=pranavarora17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/pranavarora17)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -111,14 +126,10 @@
 
 ---
 
-## 📖 Currently Learning
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
-
----
 
 <div align="center">
+
+💼 **Open to Backend · SDE · Full-Stack opportunities**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
 
