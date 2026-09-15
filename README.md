@@ -6,7 +6,7 @@
 
 I build backend systems and developer tools that connect APIs, data, and infrastructure.
 
-[Portfolio](https://pranavarora.in.github.io) · [LinkedIn](https://linkedin.com/in/pranavarora17) · [LeetCode](https://leetcode.com/) · [HackerRank](https://www.hackerrank.com/)
+[Portfolio](https://pranavarora17.github.io) · [LinkedIn](https://linkedin.com/in/pranavarora17) · [LeetCode](https://leetcode.com/pranavarora17) · [HackerRank](https://www.hackerrank.com/pranavarora107)
 
 ---
 
