@@ -1,35 +1,34 @@
 # Pranav Arora
 
-### Software Engineer · Systems Integration
+**Software Engineer **
 
-**Java · Backend · APIs · Databases · Automation**
+Java · Backend · APIs · Databases · Automation
 
 I build backend systems and developer tools that connect APIs, data, and infrastructure.
 
-[Portfolio](https://pranavarora17.github.io) · [LinkedIn](https://linkedin.com/in/pranavarora17) · [LeetCode](https://leetcode.com/pranavarora17) · [HackerRank](https://www.hackerrank.com/pranavarora107)
+[Portfolio](https://pranavarora17.github.io/) · [LinkedIn](https://linkedin.com/in/pranavarora17) · [LeetCode](https://leetcode.com/pranavarora17) · [HackerRank](https://www.hackerrank.com/pranavarora107)
 
 ---
 
 ## Experience
 
-**Samsung R&D Institute India · Samsung PRISM**
+**Samsung R&D Institute India — Samsung PRISM**
 *Project Intern · Apr 2026 — Sep 2026*
 
-**AutoDev Intelligence**
-GitHub Repository Analyzer & Build Feasibility Engine
+**AutoDev Intelligence** — GitHub Repository Analyzer & Build Feasibility Engine
 
 `Java` `REST APIs` `GitHub API` `MySQL`
 
-Repository analysis · Dependency detection · Build classification · Automated recommendations
+Working on a developer-intelligence platform that analyzes GitHub repositories, detects dependencies and technologies, and evaluates build feasibility.
 
 ---
 
-**Indian Cyber Coordination Centre · I4C**
+**Indian Cyber Coordination Centre — I4C**
 *Software Development Engineer Intern · Jun 2025 — Jul 2025*
 
-`Java` `REST APIs` `MySQL` `Git` `Postman`
+`Java` `REST APIs` `MySQL` `JUnit`
 
-REST API development · SQL optimization · Database indexing · JUnit testing
+Developed REST APIs, optimized SQL queries on fraud-transaction datasets, and contributed to automated testing.
 
 ---
 
@@ -38,70 +37,46 @@ REST API development · SQL optimization · Database indexing · JUnit testing
 
 `HTML` `CSS` `JavaScript`
 
-Frontend development · API integration · Agile/Scrum
+Built responsive interfaces and worked with backend engineers on API integration.
 
 ---
 
-## Projects
+## Selected Work
 
-**[Placement Prep Quiz Platform](#)**
+**Placement Prep Quiz Platform**
 `Java` `MySQL` `React`
 
-Adaptive placement-preparation platform with difficulty selection based on score history.
+Adaptive placement-preparation platform that adjusts question difficulty based on score history.
 
-**[Student Result Portal](#)**
+**Student Result Portal**
 `Java` `JDBC` `MySQL` `Servlets`
 
-Student/faculty portal with normalized database design, authentication, stored procedures, and GPA computation.
+Student and faculty portal with normalized database design, authentication, stored procedures, and GPA computation.
 
-**[Notepad Clone](#)**
+**Notepad Clone**
 `Java` `Swing` `AWT`
 
-Lightweight desktop text editor with file I/O and menu-driven functionality.
+Desktop text editor with file I/O and menu-driven functionality.
 
 ---
 
-## Achievements
+## Recognition
 
-**01 · HACKPICK 2025** — 🥇 1st Place
-Outdated software & driver detection system
-
-**02 · HACKSUMMIT 2025** — 🥇 1st Place
-Security attack-simulation & vulnerability scoring
-
-**03 · DEVPLAY 2026** — 🥈 2nd Place
-Adaptive placement-preparation quiz platform
+**HACKPICK 2025** — 1st Place
+**HACKSUMMIT 2025** — 1st Place
+**DEVPLAY 2026** — 2nd Place
 
 ---
 
-## Stack
+## Technologies
 
-**Languages**
-`Java` `C++` `SQL` `C` `Python`
-
-**Backend**
-`Spring` `REST APIs` `SOAP` `JDBC` `Java Servlets`
-
-**Databases**
-`MySQL` `PostgreSQL`
-
-**Tools**
-`Git` `GitHub` `Postman` `IntelliJ IDEA` `Linux` `VS Code`
-
-**Fundamentals**
-`DSA` `OOP` `OS` `DBMS` `Collections`
+**Java** · Spring · REST · JDBC · SQL · C++ · Git · Linux · MySQL · PostgreSQL
 
 ---
 
 ## Education
 
-**B.Tech Computer Science**
+**B.Tech, Computer Science**
 Honours in Financial Technology · SRM Institute of Science & Technology
 
-`9.13 / 10 GPA`
-
----
-
-<p align="center">
-  <sub>Building systems · Learning continuously · Shipping better software</sub>
-</p>
+**9.13 / 10 GPA**
