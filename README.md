@@ -1,240 +1,107 @@
-<div align="center">
+# Pranav Arora
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a2e,100:0f3460&height=220&section=header&text=Pranav%20Arora&fontSize=55&fontColor=e94560&animation=fadeIn&fontAlignY=40&stroke=e94560&strokeWidth=1&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=62&descSize=18&descColor=a8b2d8" />
+### Software Engineer · Systems Integration
 
-<br/>
+**Java · Backend · APIs · Databases · Automation**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=700&lines=🚀+Building+scalable+backend+systems;☁️+Spring+Boot+%7C+Microservices+%7C+Cloud;🔐+Security-first+%7C+JWT+%7C+OAuth2;🛡️+Ex-Intern+%40+I4C+·+Ministry+of+Home+Affairs;🟢+Open+to+SDE+%2F+Backend+roles)](https://git.io/typing-svg)
+I build backend systems and developer tools that connect APIs, data, and infrastructure.
 
-<br/>
+[Portfolio](https://pranavarora.in.github.io) · [LinkedIn](https://linkedin.com/in/pranavarora17) · [LeetCode](https://leetcode.com/) · [HackerRank](https://www.hackerrank.com/)
 
-<a href="https://linkedin.com/in/pranavarora17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://pranavarora17.github.io"><img src="https://img.shields.io/badge/Portfolio-e94560?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/pranavarora17"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;
-<a href="https://leetcode.com/u/pranavarora17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/pranavarora107"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+---
 
-<br/><br/>
+## Experience
 
-<!-- Metrics cards -->
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🏆_Hackathon_Wins-2-e94560?style=for-the-badge&labelColor=0d1117" />
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/💼_Internships-2-0f3460?style=for-the-badge&labelColor=0d1117" />
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/☕_Years_in_Java-2+-6DB33F?style=for-the-badge&labelColor=0d1117" />
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🎯_Hackathons-3-FFD700?style=for-the-badge&labelColor=0d1117" />
-</td>
-</tr>
-</table>
+**Samsung R&D Institute India · Samsung PRISM**
+*Project Intern · Apr 2026 — Sep 2026*
 
-</div>
+**AutoDev Intelligence**
+GitHub Repository Analyzer & Build Feasibility Engine
 
-<br/>
+`Java` `REST APIs` `GitHub API` `MySQL`
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:1a0a2e&height=30&section=header&reversal=false" />
+Repository analysis · Dependency detection · Build classification · Automated recommendations
 
-<br/>
+---
 
-## 💼 &nbsp;Experience
+**Indian Cyber Coordination Centre · I4C**
+*Software Development Engineer Intern · Jun 2025 — Jul 2025*
 
-<table width="100%">
-<tr>
-<td width="6px" bgcolor="#e94560"></td>
-<td width="100%" style="padding-left: 16px;">
+`Java` `REST APIs` `MySQL` `Git` `Postman`
 
-### 🛡️ &nbsp;SDE Intern &nbsp;·&nbsp; Indian Cyber Coordination Centre (I4C)
-**Ministry of Home Affairs, Government of India &nbsp;·&nbsp; 🏢 On-site, Delhi, India**
-&nbsp;&nbsp;📅 &nbsp;`Jun 2025 – Jul 2025` &nbsp;&nbsp;⏱️ &nbsp;`2 months`
+REST API development · SQL optimization · Database indexing · JUnit testing
 
-- 🔍 &nbsp;Gained hands-on experience in **cyber forensics**, threat research and cybersecurity initiatives
-- 🖥️ &nbsp;Developed and improved **frontend interfaces** alongside enhancing design of existing models
-- 🏛️ &nbsp;Worked on real-world **government-level cybersecurity** projects under MHA
+---
 
-</td>
-</tr>
-</table>
+**Altruisty**
+*Full Stack Developer Intern · Oct 2025 — Jan 2026*
 
-<br/>
+`HTML` `CSS` `JavaScript`
 
-<table width="100%">
-<tr>
-<td width="6px" bgcolor="#0f3460"></td>
-<td width="100%" style="padding-left: 16px;">
+Frontend development · API integration · Agile/Scrum
 
-### 💡 &nbsp;Full Stack Developer Intern &nbsp;·&nbsp; Altruisty Innovation
-**Altruisty &nbsp;·&nbsp; 🏠 Hybrid, Tamil Nadu, India**
-&nbsp;&nbsp;📅 &nbsp;`Oct 2025 – Jan 2026` &nbsp;&nbsp;⏱️ &nbsp;`4 months`
+---
 
-- 🌐 &nbsp;Worked on **full-stack web development** concepts end-to-end
-- 🎨 &nbsp;Built **responsive front-end interfaces** using HTML, CSS, and JavaScript
-- 🔗 &nbsp;Collaborated on **backend integration** and application flow
-- 🏗️ &nbsp;Gained exposure to full-stack **architecture and development lifecycle**
+## Projects
 
-</td>
-</tr>
-</table>
+**[Placement Prep Quiz Platform](#)**
+`Java` `MySQL` `React`
 
-<br/>
+Adaptive placement-preparation platform with difficulty selection based on score history.
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a0a2e,100:0d1117&height=30&section=footer&reversal=true" />
+**[Student Result Portal](#)**
+`Java` `JDBC` `MySQL` `Servlets`
 
-<br/>
+Student/faculty portal with normalized database design, authentication, stored procedures, and GPA computation.
 
-## 🚀 &nbsp;Projects
+**[Notepad Clone](#)**
+`Java` `Swing` `AWT`
 
-<div align="center">
+Lightweight desktop text editor with file I/O and menu-driven functionality.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=a8b2d8&center=true&vCenter=true&width=500&lines=🔧+Projects+in+active+development...;⚙️+Coming+soon+—+stay+tuned!;💻+Watch+this+space...)](https://git.io/typing-svg)
+---
 
-</div>
+## Achievements
 
-<!--
-### [Project Name](repo-link)
-> One-line description of what it does.
+**01 · HACKPICK 2025** — 🥇 1st Place
+Outdated software & driver detection system
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**02 · HACKSUMMIT 2025** — 🥇 1st Place
+Security attack-simulation & vulnerability scoring
 
-- ⚡ Highlight 1 (e.g. "Handles 10k req/min")
-- 🔐 Highlight 2 (e.g. "JWT-secured REST API with OAuth2")
+**03 · DEVPLAY 2026** — 🥈 2nd Place
+Adaptive placement-preparation quiz platform
 
-[🔗 Live Demo](#) · [📁 Repo](#)
+---
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pranavarora17&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560)](https://github.com/pranavarora17/REPO_NAME)
--->
+## Stack
 
-<br/>
+**Languages**
+`Java` `C++` `SQL` `C` `Python`
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:1a0a2e&height=30&section=header&reversal=false" />
+**Backend**
+`Spring` `REST APIs` `SOAP` `JDBC` `Java Servlets`
 
-<br/>
+**Databases**
+`MySQL` `PostgreSQL`
 
-## 🛠 &nbsp;Tech Stack
+**Tools**
+`Git` `GitHub` `Postman` `IntelliJ IDEA` `Linux` `VS Code`
 
-<div align="center">
+**Fundamentals**
+`DSA` `OOP` `OS` `DBMS` `Collections`
 
-<table>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/><sub><b>Java</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48"/><br/><sub><b>Spring Boot</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="48"/><br/><sub><b>Hibernate</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48"/><br/><sub><b>Maven</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="48"/><br/><sub><b>Gradle</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48"/><br/><sub><b>Kafka</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub><b>Docker</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="48"/><br/><sub><b>Jenkins</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="48"/><br/><sub><b>Ansible</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="48"/><br/><sub><b>Terraform</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/><sub><b>Linux</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/><sub><b>Git</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/><sub><b>PostgreSQL</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><sub><b>MySQL</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/><sub><b>MongoDB</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48"/><br/><sub><b>C</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br/><sub><b>C++</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/><sub><b>JavaScript</b></sub></td>
-</tr>
-</table>
+---
 
-<br/>
+## Education
 
-`JWT` &nbsp;`OAuth2` &nbsp;`Spring Security` &nbsp;`Spring AI` &nbsp;`REST APIs` &nbsp;`Microservices` &nbsp;`Servlets & JSP` &nbsp;`JDBC` &nbsp;`JUnit` &nbsp;`Logging`
+**B.Tech Computer Science**
+Honours in Financial Technology · SRM Institute of Science & Technology
 
-</div>
+`9.13 / 10 GPA`
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a0a2e,100:0d1117&height=30&section=footer&reversal=true" />
-
-<br/>
-
-## 🏆 &nbsp;Hackathons & Achievements
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2500&color=FFD700&center=true&vCenter=true&width=550&lines=🏆+3+Hackathons+·+2+Wins+·+1+Runner-Up;💪+Competed+against+100s+of+developers;🚀+Built+under+pressure+%26+shipped)](https://git.io/typing-svg)
-
-<br/>
-
-<table>
-<tr>
-
-<td align="center" width="220" style="padding: 20px;">
-<img src="https://img.shields.io/badge/🥇-FFD700?style=for-the-badge&logoColor=black" /><br/><br/>
-<img src="https://img.shields.io/badge/HackPick-FFD700?style=for-the-badge&labelColor=0d1117&color=FFD700" /><br/>
-<img src="https://img.shields.io/badge/WINNER-e94560?style=flat-square" /><br/><br/>
-<a href="#"><img src="https://img.shields.io/badge/📄_Certificate-0f3460?style=flat-square&logoColor=white" /></a>
-</td>
-
-<td align="center" width="220" style="padding: 20px;">
-<img src="https://img.shields.io/badge/🥇-FFD700?style=for-the-badge&logoColor=black" /><br/><br/>
-<img src="https://img.shields.io/badge/HackSummit-FFD700?style=for-the-badge&labelColor=0d1117&color=FFD700" /><br/>
-<img src="https://img.shields.io/badge/WINNER-e94560?style=flat-square" /><br/><br/>
-<a href="#"><img src="https://img.shields.io/badge/📄_Certificate-0f3460?style=flat-square&logoColor=white" /></a>
-</td>
-
-<td align="center" width="220" style="padding: 20px;">
-<img src="https://img.shields.io/badge/🥈-C0C0C0?style=for-the-badge&logoColor=black" /><br/><br/>
-<img src="https://img.shields.io/badge/DevPlay_Hackathon-C0C0C0?style=for-the-badge&labelColor=0d1117&color=C0C0C0" /><br/>
-<img src="https://img.shields.io/badge/2nd_PLACE-a8b2d8?style=flat-square&logoColor=black" /><br/><br/>
-<a href="#"><img src="https://img.shields.io/badge/📄_Certificate-0f3460?style=flat-square&logoColor=white" /></a>
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:1a0a2e&height=30&section=header&reversal=false" />
-
-<br/>
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pranavarora17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_radius=12" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavarora17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&border_radius=12" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavarora17&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=a8b2d8&stroke=e94560" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavarora17&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<br/>
-
-> *"First solve the problem, then write the code."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=130&section=footer&text=💼+Open+to+Backend+·+SDE+·+Full-Stack+opportunities&fontSize=16&fontColor=a8b2d8&animation=twinkling&fontAlignY=65" />
-
-</div>
+<p align="center">
+  <sub>Building systems · Learning continuously · Shipping better software</sub>
+</p>
