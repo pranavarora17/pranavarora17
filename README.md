@@ -1,6 +1,6 @@
 # Pranav Arora
 
-**Software Engineer **
+Software Engineer
 
 Java · Backend · APIs · Databases · Automation
 
